@@ -65,6 +65,15 @@ A classic Snake game implemented on an ESP32 Devkit V1 using an 8x8 MAX7219 LED 
 
 ---
 
+## 📈 Future Improvements
+
+- Score tracking
+- Speed-up with time
+- Pause/Resume or restart button
+- Two-player or joystick support
+
+---
+
 
 
 🎥 [View Demo on Google Drive](https://drive.google.com/file/d/1O_FN-D4rnqAlECbu5mj0cfAneUYR_JgG/view?usp=drivesdk)
